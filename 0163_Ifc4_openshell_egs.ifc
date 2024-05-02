@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('ViewDefinition[DesignTransferView]'),'2;1');
-FILE_NAME('0163_Ifc4_openshell_egs.ifc','2024-05-02T17:08:51+08:00',(),(),'IfcOpenShell v0.7.0-f7c03db75','BlenderBIM 0.0.240426-1cea3d2','Nobody');
+FILE_NAME('0163_Ifc4_openshell_egs.ifc','2024-05-02T17:08:51+08:00',(),(),'IfcOpenShell v0.7.0-f7c03db75','BlenderBIM 0.0.240426-1cea3d2','JR');
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
